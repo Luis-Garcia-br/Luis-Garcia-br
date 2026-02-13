@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Luis Carlos
 
-<!--
-**Luis-Garcia-br/Luis-Garcia-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero en Computación  
+🚀 Apasionado por la tecnología y el desarrollo de software  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Mis intereses
+
+- 🎨 Frontend
+- 🎮 Videojuegos
+- 🧠 Programación Orientada a Objetos
+
+---
+
+## 🛠️ Herramientas y Tecnologías
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" />
+</p>
+
+---
+
+## 📫 Contacto
+
+📧 Puedes contactarme a través de GitHub  
+
+---
+
+✨ Siempre aprendiendo y mejorando mis habilidades.
