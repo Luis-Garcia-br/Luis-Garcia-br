@@ -28,7 +28,7 @@
 
 ## 📫 Contacto
 
-📧 Puedes contactarme a través de GitHub  
+📧 Puedes contactarme a través de luis.garcia@deinsi.com  
 
 ---
 
